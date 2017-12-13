@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuisAccuracyCheck", "LuisAccuracyCheck\LuisAccuracyCheck.csproj", "{755710DD-2DF7-40A2-AED4-3446B7BAC5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LUISClientLibrary", "LuisClientLibrary\LUISClientLibrary.csproj", "{43DAA109-EF1B-4C29-B231-9CFC88142446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755710DD-2DF7-40A2-AED4-3446B7BAC5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755710DD-2DF7-40A2-AED4-3446B7BAC5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755710DD-2DF7-40A2-AED4-3446B7BAC5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755710DD-2DF7-40A2-AED4-3446B7BAC5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DAA109-EF1B-4C29-B231-9CFC88142446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DAA109-EF1B-4C29-B231-9CFC88142446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DAA109-EF1B-4C29-B231-9CFC88142446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DAA109-EF1B-4C29-B231-9CFC88142446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E50FF447-3C87-4A90-BE25-9EAF6F211309}
+	EndGlobalSection
+EndGlobal
